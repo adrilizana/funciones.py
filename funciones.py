@@ -1,5 +1,6 @@
+#importa una libreria
 import csv
-
+#define tus pasos
 def extraer_datos_csv(nombre_archivo):
     datos = []
 
